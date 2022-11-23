@@ -1,7 +1,7 @@
 var topics = "HTML, CSS, Git, JavaScript";
 console.log(topics);
 
-var topic = "HTML";
+var topic = "HTML"
 
 if (topic === 'HTML') {
   console.log("Let's study HTML!");
@@ -14,3 +14,6 @@ if (topic === 'HTML') {
 } else {
   console.log('Please try again!');
 }
+
+
+ 
