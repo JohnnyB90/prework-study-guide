@@ -13,7 +13,7 @@ footer {
 
     height: 120px;
 
-    background-color: #DCB6A6 ;
+    background-color: blue ;
 
     color: white;
 
@@ -63,7 +63,7 @@ p {
 
     margin: 40px auto;
 
-    border: 5px solid #BFACA8;
+    border: 5px solid blue;
 
-    box-shadow: 5px 10px #BFACA8;
+    box-shadow: 5px 10px grey;
 }
